@@ -34,7 +34,7 @@ letsGoBtn.addEventListener("click", (e) => {
 });
 
 let score = 0;
-let time = 20;
+let time = 60;
 let randomWord;
 
 const words = [
